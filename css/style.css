@@ -1,0 +1,20 @@
+/* 
+File: style.css
+GUI Assignment: HW1 - Set up, GitHub and First Web Page
+Margarita Garcia-Otero, UMass Lowell Computer Science
+Copyright (c) 2024 by Garcia-Otero. All rights reserved.
+Created on September 11, 2024
+*/
+body {
+    background-color: white;
+  }
+  
+h1 {
+    color: navy;
+    margin-left: 20px;
+    text-align: center;
+  }
+
+footer { 
+    text-align: center; 
+  } 
